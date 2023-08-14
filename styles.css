@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+table{
+	border: 1px solid black;
+	spacing: 1px;
+	padding: 1px;
+}
+#row1{
+	background-color: green;
+}
+#row3{
+	background-color: blue;
+}
